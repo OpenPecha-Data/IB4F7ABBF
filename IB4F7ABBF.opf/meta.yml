@@ -1,0 +1,16 @@
+id: IB4F7ABBF
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:57:33.393653
+last_modified: 2023-02-08 14:57:33.393809
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka'
+  language: bo
+bases:
+  '4455':
+    base_file: 4455.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
